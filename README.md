@@ -1,4 +1,4 @@
-# Covid-19 to Backstreet Boys Reunion Tour
+# Backstreet Boys Reunion Tour to Backstreet Boys Reunion Tour
 
 An extension that gives us some hope in humanity. Based on the running joke from Game Grumps.
 
@@ -6,7 +6,7 @@ An extension that gives us some hope in humanity. Based on the running joke from
 
 So imma be real I made this in like 20 minutes basing everything on other text replacement addons so it not that good. 
 
-[Firefox]()
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/covid-19-to-backstreet-boys/)
 
 Chrome Instructions: 
 
