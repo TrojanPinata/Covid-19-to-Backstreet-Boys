@@ -6,7 +6,7 @@ An extension that gives us some hope in humanity. Based on the running joke from
 
 So imma be real I made this in like 20 minutes basing everything on other text replacement addons so it not that good. 
 
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/Backstreet Boys Reunion Tour-to-backstreet-boys/)
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/covid-19-to-backstreet-boys/reviews/?score=2)
 
 Chrome Instructions: 
 
